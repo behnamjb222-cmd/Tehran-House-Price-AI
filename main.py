@@ -2,7 +2,7 @@
 # ---------------------------------------------------------
 # Project: Tehran House Price Prediction (AI/Deep Learning)
 # Author: Behnam Jabari
-# GitHub: https://github.com/YourUsername
+# GitHub: https://github.com/behnamjb222-cmd
 # ---------------------------------------------------------
 
 import pandas as pd
@@ -91,4 +91,5 @@ joblib.dump(model, 'tehran_house_model.pkl')
 joblib.dump(scaler_X, 'scaler_X.pkl')
 joblib.dump(scaler_y, 'scaler_y.pkl')
 print("✅ Your model was saved in 'tehran_house_model.pkl'. This file is your entire AI!")
+
 
