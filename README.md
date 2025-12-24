@@ -1,5 +1,7 @@
 # 🏠 Tehran House Price Prediction using Deep Learning
 
+[Demo Image](demo.jpg)
+
 An AI-powered project to predict real estate prices in Tehran using Deep Learning (Neural Networks).
 This model analyzes over **230,000 real estate ads** from 2023 and 2024 to estimate property values with high accuracy.
 
@@ -24,3 +26,4 @@ The model successfully improved accuracy significantly compared to traditional L
 1. Clone the repo:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Tehran-House-Price-Prediction.git](https://github.com/YOUR_USERNAME/Tehran-House-Price-Prediction.git)
+
